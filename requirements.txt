@@ -1,0 +1,11 @@
+tensorboardX
+tensorboard
+scikit-learn
+seqeval
+psutil
+sacrebleu
+rouge-score
+tensorflow_datasets
+transformers==2.7.0
+torch==1.4.0 
+input-reader
